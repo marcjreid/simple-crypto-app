@@ -24,8 +24,8 @@
 
 <br />
 <!-- ABOUT THE PROJECT -->
-## About The Project
 
+## About the Project
 
 This is a simple app that looks at the price history of cryptocurrencies and shows which ones show a potential buy signal.
 The way it deos this is buy comparing the 7-day and 25-day moving averages and seeing if there is a crossover. 
@@ -34,7 +34,6 @@ It also shows the price history of the chosen currency with the moving average a
 link to app   -  https://share.streamlit.io/marcjreid/simple-crypto-app/app.py
 
 <p align="right">(<a href="#top">back to top</a>)</p>
-
 
 
 ### Built With
@@ -65,4 +64,5 @@ link to app   -  https://share.streamlit.io/marcjreid/simple-crypto-app/app.py
   ```
 <p align="right">(<a href="#top">back to top</a>)</p>
 
+[linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://www.linkedin.com/in/marcusjreid/
