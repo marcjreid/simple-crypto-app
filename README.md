@@ -18,8 +18,7 @@
 *** https://www.markdownguide.org/basic-syntax/#reference-style-links
 -->
 
-[![LinkedIn][linkedin-shield]][https://www.linkedin.com/in/marcusjreid/]
-
+[![LinkedIn][linkedin-shield]][linkedin-url]
 
 
 
@@ -32,9 +31,8 @@ This is a simple app that looks at the price history of cryptocurrencies and sho
 The way it deos this is buy comparing the 7-day and 25-day moving averages and seeing if there is a crossover. 
 It also shows the price history of the chosen currency with the moving average and MACD analysis lines.
 
-link to app
+link to app   -  https://share.streamlit.io/marcjreid/simple-crypto-app/app.py
 
-(https://share.streamlit.io/marcjreid/simple-crypto-app/app.py)
 <p align="right">(<a href="#top">back to top</a>)</p>
 
 
@@ -50,8 +48,7 @@ link to app
 
 ### Prerequisites
 
-This is an example of how to list things you need to use the software and how to install them.
-* pip
+* pip install
   ```sh
   numpy
   pandas
@@ -66,3 +63,6 @@ This is an example of how to list things you need to use the software and how to
   plotly.graph_objects
   plotly.subplots 
   ```
+<p align="right">(<a href="#top">back to top</a>)</p>
+
+[linkedin-url]: https://linkedin.com/in/othneildrew
