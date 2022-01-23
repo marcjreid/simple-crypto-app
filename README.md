@@ -22,7 +22,7 @@
 
 
 
-
+<br />
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
@@ -65,4 +65,4 @@ link to app   -  https://share.streamlit.io/marcjreid/simple-crypto-app/app.py
   ```
 <p align="right">(<a href="#top">back to top</a>)</p>
 
-[linkedin-url]: https://linkedin.com/in/othneildrew
+[linkedin-url]: https://www.linkedin.com/in/marcusjreid/
